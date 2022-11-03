@@ -6,6 +6,9 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## Usage 
 
+![Screen Shot 2022-11-02 at 11 12 46 PM](https://user-images.githubusercontent.com/106941418/199651933-234c1359-596a-4186-863f-b50733ee1229.png)
+
+
 - This workday calendar display work hours of the day 8AM - 5PM.
 - On the top of the page, current day and date is diplayed.
 - Each time block is color coded to indicate whether it occurs in the past(gray), present(red), or future(green).
